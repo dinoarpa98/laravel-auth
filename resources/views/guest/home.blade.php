@@ -70,11 +70,10 @@
                     @endauth
                 </div>
             @endif
-
+            
             <div class="content">
                 {{-- Pagina in costruzione --}}
                 <div id="root">
-
                 </div>
             </div>
         </div>
